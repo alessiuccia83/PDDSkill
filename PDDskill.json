@@ -1,4 +1,18 @@
 [
+{
+    "uid": "urn:uuid:5335c695-cfb8-4ebb-abbd-80da344efa6d",
+    "updateDate": "2019-08-16T00:00:00.0Z",
+    "titleText": "Per questa domenica, passato il ferragosto, prepariamo qualcosa di leggero e gustoso. Consiglio riso freddo con tonno, zucchine e limone.",
+    "mainText": "Per questa domenica, passato il ferragosto, prepariamo qualcosa di leggero e gustoso. Consiglio riso freddo con tonno, zucchine e limone",
+    "redirectionUrl": "https://www.giallozafferano.it"
+  },
+{
+    "uid": "urn:uuid:5335c695-cfb8-4ebb-abbd-80da344efa6c",
+    "updateDate": "2019-08-11T00:00:00.0Z",
+    "titleText": "Per questa domenica, il consiglio è quello di preparare una frittata di spaghetti. Non e' leggerissima, ma sicuramente gustosa.",
+    "mainText": "Per questa domenica, il consiglio è quello di preparare una frittata di spaghetti. Non e' leggerissima, ma sicuramente gustosa.",
+    "redirectionUrl": "https://www.giallozafferano.it"
+  },
     {
     "uid": "urn:uuid:5335c695-cfb8-4ebb-abbd-80da344efa6b",
     "updateDate": "2019-08-07T00:00:00.0Z",
