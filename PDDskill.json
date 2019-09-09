@@ -1,12 +1,19 @@
 [
-                {
+  {
+    "uid": "urn:uuid:5335c695-cfb8-4ebb-abbd-80da344efa6g",
+    "updateDate": "2019-09-09T00:00:00.0Z",
+    "titleText": "Per la prossima domenica, prepariamo un piatto classico, le polpette, ma al forno con contorno di melanzane sempre al forno.",
+    "mainText": "Per la prossima domenica, prepariamo un piatto classico, le polpette, ma al forno con contorno di melanzane sempre al forno.",
+    "redirectionUrl": "https://www.giallozafferano.it"
+  },
+  {
     "uid": "urn:uuid:5335c695-cfb8-4ebb-abbd-80da344efa6f",
     "updateDate": "2019-09-02T00:00:00.0Z",
     "titleText": "Per la prossima domenica, a casa o in una gita fuori porta, una frittata di spaghetti mette sempre allegria, ed e' molto gustosa.",
     "mainText": "Per la prossima domenica, a casa o in una gita fuori porta, una frittata di spaghetti mette sempre allegria, ed e' molto gustosa",
     "redirectionUrl": "https://www.giallozafferano.it"
   },
-        {
+  {
     "uid": "urn:uuid:5335c695-cfb8-4ebb-abbd-80da344efa6e",
     "updateDate": "2019-08-26T00:00:00.0Z",
     "titleText": "Per la prossima domenica, prepariamo un primo molto gustoso, pettole, fagioli e cozze.",
