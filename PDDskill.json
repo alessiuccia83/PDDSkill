@@ -1,6 +1,13 @@
 [
+                  {
+    "uid": "urn:uuid:5335c695-cfb8-4ebb-abbd-80da344efa6p",
+    "updateDate": "2019-11-18T00:00:00.0Z",
+    "titleText": "Per la prossima domenica, prepariamo una crema di porri e castagne. Buon appetito.",
+    "mainText": "Per la prossima domenica, prepariamo una crema di porri e castagne. Buon appetito.",
+    "redirectionUrl": "https://www.giallozafferano.it"
+  },
                 {
-    "uid": "urn:uuid:5335c695-cfb8-4ebb-abbd-80da344efa6m",
+    "uid": "urn:uuid:5335c695-cfb8-4ebb-abbd-80da344efa6o",
     "updateDate": "2019-11-12T00:00:00.0Z",
     "titleText": "Per la prossima domenica, prepariamo un piatto gustosissimo sedanini pasticciati al forno. Buon appetito.",
     "mainText": "Per la prossima domenica, prepariamo un piatto gustosissimo sedanini pasticciati al forno. Buon appetito.",
