@@ -1,5 +1,12 @@
 [
-                        {
+{
+    "uid": "urn:uuid:5335c695-cfb8-4ebb-abbd-80da344efa6t",
+    "updateDate": "2019-12-16T00:00:00.0Z",
+    "titleText": "Per la prossima domenica, prepariamo un'antipasto fresco, l'insalata di arance. Si tratta di un piatto molto semplice e veloce. Buon appetito.",
+    "mainText": "Per la prossima domenica, prepariamo un'antipasto fresco, l'insalata di arance. Si tratta di un piatto molto semplice e veloce. Buon appetito.",
+    "redirectionUrl": "https://www.giallozafferano.it"
+  },
+{
     "uid": "urn:uuid:5335c695-cfb8-4ebb-abbd-80da344efa6s",
     "updateDate": "2019-12-09T00:00:00.0Z",
     "titleText": "Per la prossima domenica, proviamo a preparare i casoncelli. Buon appetito.",
