@@ -1,14 +1,19 @@
 [   
-        
-        
-                {
+{
+    "uid": "urn:uuid:5335c695-cfb8-4ebb-abbd-80da344efa6h",
+    "updateDate": "2020-01-01T00:00:00.0Z",
+    "titleText": "Kulusevski verra' annunciato a breve. Affare soffiato all'inter per 35 milioni.",
+    "mainText": "Kulusevski verra' annunciato a breve. Affare soffiato all'inter per 35 milioni.",
+    "redirectionUrl": "https://www.juventus.com"
+  },      
+{
     "uid": "urn:uuid:5335c695-cfb8-4ebb-abbd-80da344efa6h",
     "updateDate": "2019-12-23T00:00:00.0Z",
     "titleText": "Il tridente e Sarri questa volta non convincono. Brutta sconfitta contro la lazio. Piu' che altro non si è visto un gioco da Juve",
     "mainText": "Il tridente e Sarri questa volta non convincono. Brutta sconfitta contro la lazio. Piu' che altro non si è visto un gioco da Juve",
     "redirectionUrl": "https://www.juventus.com"
   },
-        {
+{
     "uid": "urn:uuid:5335c695-cfb8-4ebb-abbd-80da344efa6g",
     "updateDate": "2019-12-16T00:00:00.0Z",
     "titleText": "Sarri cala il tris. Higuain, Ronaldo e Dybala insieme. Bella partita e vittoria facile. L'inter pareggia e quindi c'e' l'aggancio in vetta.",
