@@ -1,6 +1,14 @@
 [
     {
-    "uid": "urn:uuid:5335c695-cfb8-4ebb-abbd-80da344efa6u",
+    "uid": "urn:uuid:5335c695-cfb8-4ebb-abbd-80da344efa6z",
+    "updateDate": "2020-01-07T00:00:00.0Z",
+    "titleText": "Per la prossima domenica, prepariamo degli arancini agli spinaci, semplici e veloci. Buon appetito.",
+    "mainText": "Per la prossima domenica, prepariamo degli arancini agli spinaci, semplici e veloci. Buon appetito.",
+    "redirectionUrl": "https://www.giallozafferano.it"
+  },    
+    
+    {
+    "uid": "urn:uuid:5335c695-cfb8-4ebb-abbd-80da344efa6v",
     "updateDate": "2020-01-01T00:00:00.0Z",
     "titleText": "Finite le cene di Natale e Capodanno e' ora di stare leggeri. Per la prossima domenica prepariamo una vellutata di ceci.",
     "mainText": "Finite le cene di Natale e Capodanno e' ora di stare leggeri. Per la prossima domenica prepariamo una vellutata di ceci.",
