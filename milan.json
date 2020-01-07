@@ -1,6 +1,13 @@
 [
     {
-    "uid": "urn:uuid:5335c695-cfb8-4ebb-abbd-80da344efa6h",
+    "uid": "urn:uuid:5335c695-cfb8-4ebb-abbd-80da344efa6j",
+    "updateDate": "2020-01-07T00:00:00.0Z",
+    "titleText": "Ibra non ha fatto la magia di risollevare questo Milan. Si è visto qualcosa ma c'e' bisogno di tempo.",
+    "mainText": "Ibra non ha fatto la magia di risollevare questo Milan. Si è visto qualcosa ma c'e' bisogno di tempo.",
+    "redirectionUrl": "https://www.acmilan.com"
+  },
+    {
+    "uid": "urn:uuid:5335c695-cfb8-4ebb-abbd-80da344efa6i",
     "updateDate": "2020-01-01T00:00:00.0Z",
     "titleText": "Sta arrivando Ibra! Speriamo che almeno lui ci possa salvare.",
     "mainText": "Sta arrivando Ibra! Speriamo che almeno lui ci possa salvare.",
